@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5599
     wikipedia: http://en.wikipedia.org/wiki/C._H._Herford
 description: pt. 1. Browning's life and work -- pt. 2. Browning's mind and art.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14618#Robert-Browning
 gutenberg_issued: '2005-01-06'
 gutenberg_type: Text
 identifiers:

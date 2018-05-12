@@ -1,0 +1,29 @@
+_repo: Robert-Browning_14618
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Herford, C. H. (Charles Harold)
+    alias: Herford, Charles Harold
+    birthdate: 1853
+    deathdate: 1931
+    gutenberg_agent_id: '5599'
+    url: http://www.gutenberg.org/2009/agents/5599
+    wikipedia: http://en.wikipedia.org/wiki/C._H._Herford
+description: pt. 1. Browning's life and work -- pt. 2. Browning's mind and art.
+gutenberg_issued: '2005-01-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14618'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Browning, Robert, 1812-1889'
+- !lcsh 'Poets, English -- 19th century -- Biography'
+title: Robert Browning
+url: http://www.gutenberg.org/ebooks/14618
